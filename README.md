@@ -1,4 +1,4 @@
-# Favourdevs
+# Favour devs
 
 # 👋 Hi, I'm Favour Babalola!  
 
