@@ -8,9 +8,9 @@
 
 I'm passionate about **AI, machine learning, and cybersecurity**. I love building creative solutions and exploring the latest advancements in tech. Currently, I'm studying **IT in Canada** and working on several exciting projects, including:  
 
-- 🚀 Developing an AI-powered study app — **Clevaly/Klevaly**  
-- 🛍️ Running my own e-commerce stores — **Norea**  
-- 📺 Leading **Able TV** and **Able2 Productions** — providing LED screens and event production services in Nigeria  
+-  Developing an AI-powered study app — **Clevaly/Klevaly**  
+-  Running my own e-commerce stores — **Norea**  
+-  Leading **Able TV** and **Able2 Productions** — providing LED screens and event production services in Nigeria  
 
 ## 🎯 Current Goals  
 - Launch a successful tech company focused on AI and cybersecurity  
