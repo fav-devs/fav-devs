@@ -10,6 +10,11 @@ Building social, AI, and workforce platforms in public.
 I design and ship **real products**, not tutorial leftovers. My work lives at the intersection of **software engineering, AI systems, and community-driven platforms**.
 
 ---
+[![Portfolio](https://img.shields.io/badge/Portfolio-favdevs.app-0a0a0a?style=for-the-badge)](https://favdevs.me)
+[![Email](https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge)](mailto:favour@favdevs.me)
+
+
+
 
 ## 🚀 What I’m Building
 
