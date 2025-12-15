@@ -13,15 +13,21 @@ I design and ship **real products**, not tutorial leftovers. My work lives at th
 
 ## 🚀 What I’m Building
 
-- **KOVR** – A workforce & shift marketplace for multi-location employers
-- **Sociona** – Social automation & content repurposing SaaS  
-- **SocialLoop** – A social-first event networking & engagement platform  
-- **Norea** – E-commerce wellness & self-care brand  
-- **TinkFlash** – AI-powered learning & flashcard assistant  
-- **Able2 Productions / Able TV** – Event production & LED screen services (Nigeria)  
+- **[SocialLoop](https://socialloop.app)** - Social-first event networking & engagement platform built around real-world connections.
+
+- **[KOVR](https://kovr.app)** - Workforce & shift marketplace for multi-location employers and flexible workers.
+
+- **[Sociona](https://sociona.app)** - Social automation & content repurposing SaaS for creators and brands.
+
+- **[TinkFlash](https://tinkflash.com)** - AI-powered learning & flashcard assistant.
+
+- **[Norea](https://norea.com)** - E-commerce wellness & self-care brand.
+  
+- **[Able2 Productions](https://able2productions.com)** / **[Able TV](https://abletv.com)** - Event production, LED screens, and live broadcasting services in Nigeria.
 
 
-These are active, evolving products. Repositories reflect iteration.
+
+These are active, evolving products.
 
 ---
 
