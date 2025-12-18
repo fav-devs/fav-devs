@@ -7,7 +7,7 @@
 **Founder • Full-Stack Developer • IT Student (Canada)**  
 Building social, AI, and workforce platforms in public.
 
-I design and ship **real products**, not tutorial leftovers. My work lives at the intersection of **software engineering, AI systems, and community-driven platforms**.
+I design and ship **real products**, not tutorial leftovers.
 
 ---
 [![Portfolio](https://img.shields.io/badge/Portfolio-favdevs.app-0a0a0a?style=for-the-badge)](https://favdevs.me)
