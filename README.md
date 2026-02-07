@@ -18,6 +18,8 @@ I design and ship **real products**, not tutorial leftovers.
 
 ## 🚀 What I’m Building
 
+- **[Lo-cal](https://lo-ca.app)** - An hyper local social platform t.
+- 
 - **[SocialLoop](https://socialloop.app)** - Social-first event networking & engagement platform built around real-world connections.
 
 - **[KOVR](https://kovr.app)** - Workforce & shift marketplace for multi-location employers and flexible workers.
@@ -26,9 +28,9 @@ I design and ship **real products**, not tutorial leftovers.
 
 - **[TinkFlash](https://tinkflash.com)** - AI-powered learning & flashcard assistant.
 
-- **[Norea](https://norea.com)** - E-commerce wellness & self-care brand.
+- **[Favdevs](https://www.favdevs.me/)** - My portfolio.
   
-- **[Able2 Productions](https://able2productions.com)** / **[Able TV](https://abletv.com)** - Event production, LED screens, and live broadcasting services in Nigeria.
+- **[Able2 Productions](https://animated-nights.vercel.app/)**  - Event production, LED screens, and live broadcasting services in Nigeria.
 
 
 
