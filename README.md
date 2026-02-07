@@ -18,8 +18,8 @@ I design and ship **real products**, not tutorial leftovers.
 
 ## 🚀 What I’m Building
 
-- **[Lo-cal](https://lo-ca.app)** - An hyper local social platform t.
-- 
+- **[Lo-cal](https://lo-ca.app)** - An hyper local social platform 
+  
 - **[SocialLoop](https://socialloop.app)** - Social-first event networking & engagement platform built around real-world connections.
 
 - **[KOVR](https://kovr.app)** - Workforce & shift marketplace for multi-location employers and flexible workers.
