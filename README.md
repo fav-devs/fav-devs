@@ -32,6 +32,8 @@ I design and ship **real products**, not tutorial leftovers.
 
 - **[Favdevs](https://www.favdevs.me/)** - My portfolio.
   
+- **[Home-Edge](https://github.com/fav-devs/Home-Edge)** - AI-powered smart home health assistant for elderly care.
+  
 - **[Able2 Productions](https://animated-nights.vercel.app/)**  - Event production, LED screens, and live broadcasting services in Nigeria.
 
 
