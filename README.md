@@ -18,7 +18,9 @@ I design and ship **real products**, not tutorial leftovers.
 
 ## 🚀 What I’m Building
 
-- **[Lo-cal](https://lo-ca.app)** - An hyper local social platform 
+- **[Sortie](https://github.com/fav-devs/sortie)** - Speed up your editing workflow with swipe-to-organize
+
+- **[Lo-cal](https://lo-cal.app)** - An hyper local social platform 
   
 - **[SocialLoop](https://socialloop.app)** - Social-first event networking & engagement platform built around real-world connections.
 
