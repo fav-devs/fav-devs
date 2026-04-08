@@ -18,6 +18,10 @@ I design and ship **real products**, not tutorial leftovers.
 
 ## 🚀 What I’m Building
 
+- **[Glyph](https://glyph.pics)** - Speed up your ai image creation flow and character consistency with node based image builder and moodboard
+
+- **[CLevaly](https://clevaly.com)** - A smart school assitant to help with learning and growth (basically tinkflash v2)
+
 - **[Sortie](https://github.com/fav-devs/sortie)** - Speed up your editing workflow with swipe-to-organize
 
 - **[Lo-cal](https://lo-cal.app)** - An hyper local social platform 
