@@ -7,7 +7,7 @@
 **Founder • Full-Stack Developer • IT Student (Canada)**  
 Building social, AI, and workforce platforms in public.
 
-I design and ship **real products**, not tutorial leftovers.
+I design and ship **real products**.
 
 ---
 [![Portfolio](https://img.shields.io/badge/Portfolio-favdevs.app-0a0a0a?style=for-the-badge)](https://favdevs.me)
@@ -18,19 +18,19 @@ I design and ship **real products**, not tutorial leftovers.
 
 ## 🚀 What I’m Building
 
-- **[Glyph](https://glyph.pics)** - Speed up your ai image creation flow and character consistency with node based image builder and moodboard
+- **[Sociona](https://sociona.app)** - Social automation & content repurposing SaaS for creators and brands.
 
-- **[CLevaly](https://clevaly.com)** - A smart school assitant to help with learning and growth (basically tinkflash v2)
+- **[Clevaly](https://clevaly.com)** - A smart school assitant to help with learning and growth (basically tinkflash v2)
 
 - **[Sortie](https://github.com/fav-devs/sortie)** - Speed up your editing workflow with swipe-to-organize
 
-- **[Lo-cal](https://lo-cal.app)** - An hyper local social platform 
-  
 - **[SocialLoop](https://socialloop.app)** - Social-first event networking & engagement platform built around real-world connections.
 
 - **[KOVR](https://kovr.app)** - Workforce & shift marketplace for multi-location employers and flexible workers.
+  
+- **[Glyph](https://glyph.pics)** - Speed up your ai image creation flow and character consistency with node based image builder and moodboard
 
-- **[Sociona](https://sociona.app)** - Social automation & content repurposing SaaS for creators and brands.
+- **[Lo-cal](https://lo-cal.app)** - An hyper local social platform 
 
 - **[TinkFlash](https://tinkflash.com)** - AI-powered learning & flashcard assistant.
 
