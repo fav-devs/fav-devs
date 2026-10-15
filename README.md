@@ -10,7 +10,7 @@ Building social, AI, and workforce platforms in public.
 I design and ship **real products**.
 
 ---
-[![Portfolio](https://img.shields.io/badge/Portfolio-favdevs.app-0a0a0a?style=for-the-badge)](https://favdevs.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-favdevs.me-0a0a0a?style=for-the-badge)](https://favdevs.me)
 [![Email](https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge)](mailto:favour@favdevs.me)
 
 
@@ -18,38 +18,52 @@ I design and ship **real products**.
 
 ## 🚀 What I’m Building
 
-- **[Sociona](https://sociona.app)** - Social automation & content repurposing SaaS for creators and brands.
+### Products
 
-- **[Clevaly](https://clevaly.com)** - A smart school assitant to help with learning and growth (basically tinkflash v2)
+- **[Sociona](https://sociona.app)** - Social media workspace for short-form video creators: plan, design, schedule and publish, with an API and two MCP servers so agents can run it too.
 
-- **[Sortie](https://github.com/fav-devs/sortie)** - Speed up your editing workflow with swipe-to-organize
+- **[Clevaly](https://clevaly.com)** - A school workspace that keeps classes, deadlines, notes and study sets together, with an assistant that has already read your syllabus (the successor to TinkFlash).
 
-- **[SocialLoop](https://socialloop.app)** - Social-first event networking & engagement platform built around real-world connections.
+- **[Glyph](https://glyph.pics)** - Node-based image workspace for character-consistent generation. Open source. [Source](https://github.com/fav-devs/Glyph)
 
-- **[KOVR](https://kovr.app)** - Workforce & shift marketplace for multi-location employers and flexible workers.
-  
-- **[Glyph](https://glyph.pics)** - Speed up your ai image creation flow and character consistency with node based image builder and moodboard
+- **[KOVR](https://kovr.app)** - Workforce & shift marketplace for multi-location employers and flexible workers, with **KovrPay** for contractor payouts.
 
-- **[Lo-cal](https://lo-cal.app)** - An hyper local social platform 
+- **[SocialLoop](https://socialloop.app)** - Event networking with games instead of icebreakers.
 
-- **[TinkFlash](https://tinkflash.com)** - AI-powered learning & flashcard assistant.
+- **[Lo-cal](https://lo-cal.app)** - A hyperlocal network for creators and small businesses in Edmonton. I led engineering on the first version.
 
-- **[Favdevs](https://www.favdevs.me/)** - My portfolio.
-  
-- **[Home-Edge](https://github.com/fav-devs/Home-Edge)** - AI-powered smart home health assistant for elderly care.
-  
-- **[Able2 Productions](https://animated-nights.vercel.app/)**  - Event production, LED screens, and live broadcasting services in Nigeria.
+### Open source
+
+- **[Pocket Monitor](https://github.com/fav-devs/Pocket-Monitor)** - Windows desktop field monitor for DJI Osmo Pocket cameras: live viewfinder, scopes, camera controls and virtual-camera output. A desktop-focused continuation of [OpenPocketCine](https://github.com/erik-sutton95/OpenPocketCine) by Erik Sutton. Rust, Slint.
+
+- **[Stencil](https://github.com/fav-devs/stencil)** - Local-first visual editor for social graphics, carousels and video scenes that people and AI agents can edit together. Extracted from the Sociona editor. [Try the demo](https://app.sociona.app/studio/free/new)
+
+- **[Sortie](https://github.com/fav-devs/sortie)** - Swipe-to-organize for raw video footage. Rust + Tauri.
+
+- **[sociona-mcp-server](https://github.com/fav-devs/sociona-mcp-server)** - MCP server for the Sociona API, so AI assistants can publish and schedule posts.
+
+- **[Home-Edge](https://github.com/fav-devs/Home-Edge)** - HomeCare Assist: an Android app with medication tracking, a voice assistant and smart-home scenes for elderly independence. Kotlin, Jetpack Compose.
+
+### Small things
+
+- **[Proompter](https://proompter.favdevs.me)** - A speech-aware teleprompter that follows your voice.
+
+- **[PortOS](https://portos.favdevs.me)** - A portfolio that is a macOS-style desktop, as an experiment.
+
+- **[Favdevs](https://www.favdevs.me/)** - My portfolio, with a case study for every project above.
+
+- **[Able2 Productions](https://animated-nights.vercel.app/)** - Website for an LED screen and live-production company in Nigeria, where I also worked on the hardware.
 
 
-
-These are active, evolving products.
+Case studies for all of these are on **[favdevs.me](https://favdevs.me/projects)**.
 
 ---
 
 ## 🎯 Current Focus
 
 - Shipping production-ready full-stack apps (Next.js, React Native, NestJS)
-- AI agents, automation pipelines, and SaaS tooling
+- AI agents, MCP servers, automation pipelines, and SaaS tooling
+- Open-source desktop tools in Rust
 - Scalable backend systems and cloud architecture
 - Building in public with real technical depth
 
